@@ -9,6 +9,7 @@ Hosted version : https://ecommercefrontend-7eafc.web.app/
 
 FrontEnd:
 ReactJs (StateManagement React Context API).
+
 BackEnd:
 Nodejs with Clean Coding practices
 DataBase:
